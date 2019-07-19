@@ -1,0 +1,107 @@
+.app-navbar {
+    background-color: #ff7979;
+}
+
+.app-navbar .ui.text.menu {
+    margin: 0 !important;
+    padding: 1em 0 !important;
+}
+
+.app-navbar .logo-header {
+    color: #ffffff !important;
+    text-transform: capitalize !important;
+    font-size: 1.5em !important;
+}
+
+.hero {
+    background-color: #ff7979;
+    min-height: 600px;
+}
+
+.hero .header {
+    margin: 3rem 0;
+}
+
+.hero .header .hero-header {
+    font-size: 3em;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.hero .header .hero-subheader {
+    color: #ffffff;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.hero .actions .date-container .icon {
+    vertical-align: super !important;
+    margin-right: 1rem;
+}
+
+.hero .actions .date-container .date-action {
+    display: inline-block;
+}
+
+.hero .actions .date-container .date-action p {
+    font-weight: bold;
+    margin-bottom: 0;
+    color: #acacac;
+}
+
+.hero .actions .date-container .date-action h5 {
+    margin-top: 0;
+}
+
+.hero .actions .dd-search-type .dd-icon {
+    float: right;
+}
+
+.hero .actions .dd-search-type {
+    padding: 1em !important;
+    line-height: 1.6em !important;
+}
+
+.hero .actions .dd-search-type input {
+    line-height: 1.6em !important;
+    padding: 0.9em 2.1em .88em 1em !important;
+    font-size: 1.2em;
+}
+
+.hero .actions .dd-search-type .default.text,
+.hero .actions .dd-search-type .text,
+.hero .actions .dd-search-type .ui.search {
+    line-height: 1.6em !important;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.hero .actions .find-acc {
+    margin: 1em 0;
+}
+
+.services {
+    margin: 5em 0;
+}
+
+.services .serv-item {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.services .serv-item p {
+    padding: 0 1rem;
+    color: #b7b7b7;
+}
+.reviews, .destinations {
+    margin: 5em 0;
+}
+.reviews .review-header,
+.destinations .destinations-header {
+    margin: 2em 0;
+}
+
+.subscription .text {
+    font-weight: bold;
+    margin-right: 3em;
+}
