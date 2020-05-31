@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/Travel-Shop/static/css/main.2741f749.chunk.css",
-    "main.js": "/Travel-Shop/static/js/main.3c276b41.chunk.js",
-    "main.js.map": "/Travel-Shop/static/js/main.3c276b41.chunk.js.map",
-    "runtime~main.js": "/Travel-Shop/static/js/runtime~main.7768b704.js",
-    "runtime~main.js.map": "/Travel-Shop/static/js/runtime~main.7768b704.js.map",
-    "static/css/2.ab331d97.chunk.css": "/Travel-Shop/static/css/2.ab331d97.chunk.css",
-    "static/js/2.080403ba.chunk.js": "/Travel-Shop/static/js/2.080403ba.chunk.js",
-    "static/js/2.080403ba.chunk.js.map": "/Travel-Shop/static/js/2.080403ba.chunk.js.map",
+    "main.js": "/Travel-Shop/static/js/main.d9f35495.chunk.js",
+    "main.js.map": "/Travel-Shop/static/js/main.d9f35495.chunk.js.map",
+    "runtime-main.js": "/Travel-Shop/static/js/runtime-main.c13fae1b.js",
+    "runtime-main.js.map": "/Travel-Shop/static/js/runtime-main.c13fae1b.js.map",
+    "static/css/2.cd32a451.chunk.css": "/Travel-Shop/static/css/2.cd32a451.chunk.css",
+    "static/js/2.b5e1ff1b.chunk.js": "/Travel-Shop/static/js/2.b5e1ff1b.chunk.js",
+    "static/js/2.b5e1ff1b.chunk.js.map": "/Travel-Shop/static/js/2.b5e1ff1b.chunk.js.map",
     "index.html": "/Travel-Shop/index.html",
-    "precache-manifest.bf709cc069a4d36d7a67175431cc6a2b.js": "/Travel-Shop/precache-manifest.bf709cc069a4d36d7a67175431cc6a2b.js",
+    "precache-manifest.bb86abc37fed1fa0eb0ff76ca9a6811c.js": "/Travel-Shop/precache-manifest.bb86abc37fed1fa0eb0ff76ca9a6811c.js",
     "service-worker.js": "/Travel-Shop/service-worker.js",
-    "static/css/2.ab331d97.chunk.css.map": "/Travel-Shop/static/css/2.ab331d97.chunk.css.map",
+    "static/css/2.cd32a451.chunk.css.map": "/Travel-Shop/static/css/2.cd32a451.chunk.css.map",
     "static/css/main.2741f749.chunk.css.map": "/Travel-Shop/static/css/main.2741f749.chunk.css.map",
+    "static/js/2.b5e1ff1b.chunk.js.LICENSE.txt": "/Travel-Shop/static/js/2.b5e1ff1b.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/Travel-Shop/static/media/outline-icons.ef60a4f6.woff"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c13fae1b.js",
+    "static/css/2.cd32a451.chunk.css",
+    "static/js/2.b5e1ff1b.chunk.js",
+    "static/css/main.2741f749.chunk.css",
+    "static/js/main.d9f35495.chunk.js"
+  ]
 }

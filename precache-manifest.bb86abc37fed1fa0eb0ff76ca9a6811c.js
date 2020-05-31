@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c2d49e98f35643e52f0adf377b0c225",
+    "revision": "044b62049662e4e7eb743c1572b51131",
     "url": "/Travel-Shop/index.html"
   },
   {
-    "revision": "08f3a26336b685319a88",
-    "url": "/Travel-Shop/static/css/2.ab331d97.chunk.css"
+    "revision": "70386e90f420178f5498",
+    "url": "/Travel-Shop/static/css/2.cd32a451.chunk.css"
   },
   {
-    "revision": "a87801f6020dec444b05",
+    "revision": "41a562696c4362eb95f4",
     "url": "/Travel-Shop/static/css/main.2741f749.chunk.css"
   },
   {
-    "revision": "08f3a26336b685319a88",
-    "url": "/Travel-Shop/static/js/2.080403ba.chunk.js"
+    "revision": "70386e90f420178f5498",
+    "url": "/Travel-Shop/static/js/2.b5e1ff1b.chunk.js"
   },
   {
-    "revision": "a87801f6020dec444b05",
-    "url": "/Travel-Shop/static/js/main.3c276b41.chunk.js"
+    "revision": "4d47ffde3dc69784e8e23fd910817ef8",
+    "url": "/Travel-Shop/static/js/2.b5e1ff1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66c799b1003333858994",
-    "url": "/Travel-Shop/static/js/runtime~main.7768b704.js"
+    "revision": "41a562696c4362eb95f4",
+    "url": "/Travel-Shop/static/js/main.d9f35495.chunk.js"
+  },
+  {
+    "revision": "05bb57be070f38eaca08",
+    "url": "/Travel-Shop/static/js/runtime-main.c13fae1b.js"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
